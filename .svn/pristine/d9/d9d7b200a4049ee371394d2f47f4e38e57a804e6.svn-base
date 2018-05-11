@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-9.6.1.aar\\490cd629d1e0293f909879ec0c1b0bfe\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "304",
+                        "endColumns": "103",
+                        "endOffsets": "403"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rCA\\values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-9.6.1.aar\\490cd629d1e0293f909879ec0c1b0bfe\\res\\values-en-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "304",
+                        "endColumns": "103",
+                        "endOffsets": "403"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}

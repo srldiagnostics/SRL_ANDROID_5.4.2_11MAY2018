@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\res\\merged\\debug\\raw\\notification.mp3",
+        "source": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\src\\main\\res\\raw\\notification.mp3"
+    },
+    {
+        "merged": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-analytics-impl-9.6.1.aar\\66f3fcc56f02d7b2353ab1b01c48bbda\\res\\raw\\gtm_analytics"
+    }
+]

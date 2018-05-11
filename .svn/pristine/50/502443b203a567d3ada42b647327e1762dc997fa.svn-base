@@ -1,0 +1,140 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\3d1f96b899fefa468e8404ccfe97f817\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.3.0.aar\\e88616d8a079e5ff1029f36000c150d5\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "705,780,858",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "775,853,928"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.6.1.aar\\39e875a51b8e70dcffcc66c33a54f87d\\res\\values-land\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "243,335,426,525",
+                        "endColumns": "91,90,98,94",
+                        "endOffsets": "330,421,520,615"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "328,420,511,610",
+                        "endColumns": "91,90,98,94",
+                        "endOffsets": "415,506,605,700"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.0.aar\\815095d2a1398a07583eabd7457b7798\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "933",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "1110"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\3d1f96b899fefa468e8404ccfe97f817\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.3.0.aar\\e88616d8a079e5ff1029f36000c150d5\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "705,780,858",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "775,853,928"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.6.1.aar\\39e875a51b8e70dcffcc66c33a54f87d\\res\\values-land\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "243,335,426,525",
+                        "endColumns": "91,90,98,94",
+                        "endOffsets": "330,421,520,615"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "328,420,511,610",
+                        "endColumns": "91,90,98,94",
+                        "endOffsets": "415,506,605,700"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.0.aar\\815095d2a1398a07583eabd7457b7798\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "933",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "1110"
+                    }
+                }
+            ]
+        }
+    ]
+}

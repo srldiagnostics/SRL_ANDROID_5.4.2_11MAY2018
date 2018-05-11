@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\3d1f96b899fefa468e8404ccfe97f817\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\3d1f96b899fefa468e8404ccfe97f817\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\3d1f96b899fefa468e8404ccfe97f817\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.6.1.aar\\76a1eb5ba37a90b654646fa4bdd84744\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\3d1f96b899fefa468e8404ccfe97f817\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

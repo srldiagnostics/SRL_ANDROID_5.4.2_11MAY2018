@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.3.0.aar\\e88616d8a079e5ff1029f36000c150d5\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "D:\\Trupti_workspace\\SRL_SVN_survey\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\lakhan.yadav\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.3.0.aar\\e88616d8a079e5ff1029f36000c150d5\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.markushi:android-ui-1.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-ui-1.2.aar/f49d3a5d970de6893fe4ed912a60056c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-ui-1.2.aar/f49d3a5d970de6893fe4ed912a60056c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.markushi/android-ui/1.2/a79ba30f86194292b41a9555fe52a0339d7f5949/android-ui-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

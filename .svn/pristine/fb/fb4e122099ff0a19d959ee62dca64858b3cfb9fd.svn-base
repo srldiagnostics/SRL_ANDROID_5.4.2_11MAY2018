@@ -1,0 +1,1690 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:428:9-436:20
+	android:grantUriPermissions
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:432:13-47
+	android:authorities
+		INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:430:13-60
+	android:exported
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:431:13-37
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:429:13-67
+manifest
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:2:1-487:12
+INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:2:1-487:12
+INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:2:1-487:12
+INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:2:1-487:12
+MERGED from [:volley] D:\Trupti_workspace\SRL_SVN_survey\volley\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:sublimenavigationview] D:\Trupti_workspace\SRL_SVN_survey\sublimenavigationview\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-16:12
+MERGED from [:placesautocompletetextview] D:\Trupti_workspace\SRL_SVN_survey\placesautocompletetextview\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:design:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\815095d2a1398a07583eabd7457b7798\AndroidManifest.xml:17:1-31:12
+MERGED from [com.brucetoo.pickview:library:1.2.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\library-1.2.2.aar\a463311258873990418bbfa79b504fb3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.kyleduo.switchbutton:library:1.4.4] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\library-1.4.4.aar\e37bcefcf5a55b906a4e47e9518adfb4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.synnapps:carouselview:0.1.3] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\carouselview-0.1.3.aar\780e17f7721060bd268d9eb3621ddce0\AndroidManifest.xml:2:1-16:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.32.0.aar\07084806ea1cb84df94d93cbacf75ef2\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\d7a14e087edbf4ed8e615ae559d36645\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-share-4.32.0.aar\6577b74d604119259d6667033456808e\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\764811d0526c937160da33042f802987\AndroidManifest.xml:21:1-36:12
+MERGED from [com.google.android.gms:play-services:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-9.6.1.aar\99bf98069e6003642a1f5ef2ee0355d2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.6.1.aar\39e875a51b8e70dcffcc66c33a54f87d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.6.1.aar\b32b0341c99c67bc1110aba66a88e376\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.3.0.aar\e88616d8a079e5ff1029f36000c150d5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\3d1f96b899fefa468e8404ccfe97f817\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.markushi:android-ui:1.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\android-ui-1.2.aar\f49d3a5d970de6893fe4ed912a60056c\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\8aff7c4c8d033f5c12cbb4b1ff5fd411\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.0.aar\b39f91413136a7ce571e2484712b3ab0\AndroidManifest.xml:17:1-28:12
+MERGED from [info.hoang8f:android-segmented:1.0.6] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\android-segmented-1.0.6.aar\8319b7e255cc1f912a7bbbca91ca0777\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.6.1.aar\f7bc1414f4489bc3f30f2c614d714614\AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.daimajia:AndroidSwipeLayout:f66ac6942b] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\AndroidSwipeLayout-f66ac6942b.aar\d6c6062c7449e97f4d0e23e189c673d0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.0.aar\f3396523d89eaaaecc2f095b4ea00a26\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\3500ef67f35850d83e4eb3df38842017\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\7c50759db1e340500f869d9ee074cd00\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\31a47aa657dd7338e662fc1dd9c03728\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-places:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-places-4.32.0.aar\b4bbc017e16e8a5e42ba8fc22a172c7e\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.32.0.aar\781afb0f68b39ed264650a7ee7d2c986\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.32.0.aar\4e74e5717d5d4c5f3dee5b12c4a30420\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\02c7c63fca81a77f92e54ef4d5aa1276\AndroidManifest.xml:21:1-45:12
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\cd88bebc8faf525027038de9a753b32b\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-ads:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.6.1.aar\456fe14389840de1511dbde213a4fe88\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.6.1.aar\dd6a8e4aa483de46ea6fde873e3564fb\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.6.1.aar\4d79f32526ac9d099c11c49f96d69b3c\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.6.1.aar\66f3fcc56f02d7b2353ab1b01c48bbda\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.6.1.aar\c5a72e5697769628a6cbbe64a9355f92\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.6.1.aar\72edad36d59e6f255c1b885c82f8dc4e\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-config-9.6.1.aar\64410cd550ad75332e25179fb561f618\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.6.1.aar\2dce142c286c1f3f9163b404ecceebb9\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-games-9.6.1.aar\cab1398385d0378340e3444ce104ec25\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.6.1.aar\3330221bcbcba962de28cd6bb810e7f6\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.6.1.aar\049b875cdb3c9a841bac112413448174\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.6.1.aar\ffa6f365add5879c8573539439739db0\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.6.1.aar\731a45c829909d9ca4b1e7f0f90453b6\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-fitness:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.6.1.aar\805316a6340a4fa6b5393d6da0df763e\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.6.1.aar\6cfd432e73f99667a1e8c16f6fa2e7f5\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.6.1.aar\490cd629d1e0293f909879ec0c1b0bfe\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.6.1.aar\61ed762424c5e08d1cb36abc684783b4\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.6.1.aar\780ab375b6ec563cc256db3d5e4d96ca\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-9.6.1.aar\740f8c26e8ebb0a7281b8a5bcafdb9f6\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-location-9.6.1.aar\83479cd043dff0671ec2136cb56caabf\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-places-9.6.1.aar\76a1eb5ba37a90b654646fa4bdd84744\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.6.1.aar\2407944b095f3912aa43a3594c888bde\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.6.1.aar\c9a199078769e261fcfbfc9b120ea4d7\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.6.1.aar\f76a5c99aa428a6d172d607289e7fde9\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.6.1.aar\4c0219e13ce4224fec8cf587aca370bf\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.6.1.aar\e41da494f92dcf8ea70b64ba3aaf5775\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.6.1.aar\e95f21f78caaca32204676c85b15a65b\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.6.1.aar\70ebbc6184d58e99f95690b4bfa9aa4c\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-base-9.6.1.aar\5fb085899543bab3ef9dd25f3367b36c\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-database-9.6.1.aar\8c9dd9ca2a7c46a363899a8f4fc2977a\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.6.1.aar\fdbd02068be6e913619859f6c622c508\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-core-9.6.1.aar\676d9c71c4a3e1a30f50d1f0461d54c5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-storage:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.6.1.aar\8e466d96ee1298e3e24287462f3f416a\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\c9c60cc396e7badbb44b1e905a98add4\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.6.1.aar\b2931ec1e37973436186a9e2e6526954\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.firebase:firebase-storage-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.6.1.aar\299a1a3f3b8d5676134a55b98c023a12\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.6.1.aar\4326e35274c41d7d4ef763af24d2bb80\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\95c62cc881139de284404bb09e17def7\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\260827e203ae82df1a5d48326f4f7c2a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\b4bb60baae6128479d10b0ae6fdb38a9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\e7456c3bf7d2406d1cf69c9e7529acb5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\02e216d6ab8d85c8fa1dbe3b694142c2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.0.aar\17b4cfd0c86c4a3d84995a6d140ea5fb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\c344c55c248067f1520671a36b4b3e18\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:customtabs:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.0.aar\4dfa7c049aa57d1eb80d9f6e877b6933\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\c6d6cbc4d6c37296f55e9a5efbc69564\AndroidManifest.xml:17:1-31:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\bcbbb9609e292e07449ff8ebc7753d65\AndroidManifest.xml:2:1-11:12
+MERGED from [com.appsflyer:af-android-sdk:4.8.10] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\af-android-sdk-4.8.10.aar\8d2c8ba56ebe7391fbba0a3aca2c4a1d\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\installreferrer-1.0.aar\c2dc4c387ebe19e95b6e21a3bcd27c90\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\24a8794c5f3a4658079bcd4ba22b9ba1\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:2:1-487:12
+INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:2:1-487:12
+INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:2:1-487:12
+	package
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:2:1-487:12
+		INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:2:1-487:12
+		INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:6:5-56
+INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:6:5-56
+INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:6:5-56
+MERGED from [:volley] D:\Trupti_workspace\SRL_SVN_survey\volley\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-43
+MERGED from [:volley] D:\Trupti_workspace\SRL_SVN_survey\volley\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-43
+MERGED from [:sublimenavigationview] D:\Trupti_workspace\SRL_SVN_survey\sublimenavigationview\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:sublimenavigationview] D:\Trupti_workspace\SRL_SVN_survey\sublimenavigationview\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:placesautocompletetextview] D:\Trupti_workspace\SRL_SVN_survey\placesautocompletetextview\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:placesautocompletetextview] D:\Trupti_workspace\SRL_SVN_survey\placesautocompletetextview\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\815095d2a1398a07583eabd7457b7798\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\815095d2a1398a07583eabd7457b7798\AndroidManifest.xml:21:5-23:62
+MERGED from [com.brucetoo.pickview:library:1.2.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\library-1.2.2.aar\a463311258873990418bbfa79b504fb3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.brucetoo.pickview:library:1.2.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\library-1.2.2.aar\a463311258873990418bbfa79b504fb3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kyleduo.switchbutton:library:1.4.4] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\library-1.4.4.aar\e37bcefcf5a55b906a4e47e9518adfb4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.kyleduo.switchbutton:library:1.4.4] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\library-1.4.4.aar\e37bcefcf5a55b906a4e47e9518adfb4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.synnapps:carouselview:0.1.3] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\carouselview-0.1.3.aar\780e17f7721060bd268d9eb3621ddce0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.synnapps:carouselview:0.1.3] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\carouselview-0.1.3.aar\780e17f7721060bd268d9eb3621ddce0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.32.0.aar\07084806ea1cb84df94d93cbacf75ef2\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.32.0.aar\07084806ea1cb84df94d93cbacf75ef2\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\d7a14e087edbf4ed8e615ae559d36645\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\d7a14e087edbf4ed8e615ae559d36645\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-share-4.32.0.aar\6577b74d604119259d6667033456808e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-share-4.32.0.aar\6577b74d604119259d6667033456808e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\764811d0526c937160da33042f802987\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\764811d0526c937160da33042f802987\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-9.6.1.aar\99bf98069e6003642a1f5ef2ee0355d2\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-9.6.1.aar\99bf98069e6003642a1f5ef2ee0355d2\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.6.1.aar\39e875a51b8e70dcffcc66c33a54f87d\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.6.1.aar\39e875a51b8e70dcffcc66c33a54f87d\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.6.1.aar\b32b0341c99c67bc1110aba66a88e376\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.6.1.aar\b32b0341c99c67bc1110aba66a88e376\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.3.0.aar\e88616d8a079e5ff1029f36000c150d5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.3.0.aar\e88616d8a079e5ff1029f36000c150d5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\3d1f96b899fefa468e8404ccfe97f817\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\3d1f96b899fefa468e8404ccfe97f817\AndroidManifest.xml:21:5-23:78
+MERGED from [com.github.markushi:android-ui:1.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\android-ui-1.2.aar\f49d3a5d970de6893fe4ed912a60056c\AndroidManifest.xml:7:5-44
+MERGED from [com.github.markushi:android-ui:1.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\android-ui-1.2.aar\f49d3a5d970de6893fe4ed912a60056c\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\8aff7c4c8d033f5c12cbb4b1ff5fd411\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\8aff7c4c8d033f5c12cbb4b1ff5fd411\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.0.aar\b39f91413136a7ce571e2484712b3ab0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.0.aar\b39f91413136a7ce571e2484712b3ab0\AndroidManifest.xml:20:5-43
+MERGED from [info.hoang8f:android-segmented:1.0.6] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\android-segmented-1.0.6.aar\8319b7e255cc1f912a7bbbca91ca0777\AndroidManifest.xml:7:5-9:41
+MERGED from [info.hoang8f:android-segmented:1.0.6] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\android-segmented-1.0.6.aar\8319b7e255cc1f912a7bbbca91ca0777\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.6.1.aar\f7bc1414f4489bc3f30f2c614d714614\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.6.1.aar\f7bc1414f4489bc3f30f2c614d714614\AndroidManifest.xml:17:5-42
+MERGED from [com.github.daimajia:AndroidSwipeLayout:f66ac6942b] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\AndroidSwipeLayout-f66ac6942b.aar\d6c6062c7449e97f4d0e23e189c673d0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.daimajia:AndroidSwipeLayout:f66ac6942b] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\AndroidSwipeLayout-f66ac6942b.aar\d6c6062c7449e97f4d0e23e189c673d0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.0.aar\f3396523d89eaaaecc2f095b4ea00a26\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.0.aar\f3396523d89eaaaecc2f095b4ea00a26\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\3500ef67f35850d83e4eb3df38842017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\3500ef67f35850d83e4eb3df38842017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\7c50759db1e340500f869d9ee074cd00\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\7c50759db1e340500f869d9ee074cd00\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\31a47aa657dd7338e662fc1dd9c03728\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\31a47aa657dd7338e662fc1dd9c03728\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-places-4.32.0.aar\b4bbc017e16e8a5e42ba8fc22a172c7e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-places-4.32.0.aar\b4bbc017e16e8a5e42ba8fc22a172c7e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.32.0.aar\781afb0f68b39ed264650a7ee7d2c986\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.32.0.aar\781afb0f68b39ed264650a7ee7d2c986\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.32.0.aar\4e74e5717d5d4c5f3dee5b12c4a30420\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.32.0.aar\4e74e5717d5d4c5f3dee5b12c4a30420\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\02c7c63fca81a77f92e54ef4d5aa1276\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\02c7c63fca81a77f92e54ef4d5aa1276\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\cd88bebc8faf525027038de9a753b32b\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\cd88bebc8faf525027038de9a753b32b\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.6.1.aar\456fe14389840de1511dbde213a4fe88\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.6.1.aar\456fe14389840de1511dbde213a4fe88\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.6.1.aar\dd6a8e4aa483de46ea6fde873e3564fb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.6.1.aar\dd6a8e4aa483de46ea6fde873e3564fb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.6.1.aar\4d79f32526ac9d099c11c49f96d69b3c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-9.6.1.aar\4d79f32526ac9d099c11c49f96d69b3c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.6.1.aar\66f3fcc56f02d7b2353ab1b01c48bbda\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.6.1.aar\66f3fcc56f02d7b2353ab1b01c48bbda\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.6.1.aar\c5a72e5697769628a6cbbe64a9355f92\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.6.1.aar\c5a72e5697769628a6cbbe64a9355f92\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.6.1.aar\72edad36d59e6f255c1b885c82f8dc4e\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.6.1.aar\72edad36d59e6f255c1b885c82f8dc4e\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-config-9.6.1.aar\64410cd550ad75332e25179fb561f618\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-config-9.6.1.aar\64410cd550ad75332e25179fb561f618\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.6.1.aar\2dce142c286c1f3f9163b404ecceebb9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.6.1.aar\2dce142c286c1f3f9163b404ecceebb9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-games-9.6.1.aar\cab1398385d0378340e3444ce104ec25\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-games-9.6.1.aar\cab1398385d0378340e3444ce104ec25\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.6.1.aar\3330221bcbcba962de28cd6bb810e7f6\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.6.1.aar\3330221bcbcba962de28cd6bb810e7f6\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.6.1.aar\049b875cdb3c9a841bac112413448174\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.6.1.aar\049b875cdb3c9a841bac112413448174\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.6.1.aar\ffa6f365add5879c8573539439739db0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.6.1.aar\ffa6f365add5879c8573539439739db0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.6.1.aar\731a45c829909d9ca4b1e7f0f90453b6\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-module-9.6.1.aar\731a45c829909d9ca4b1e7f0f90453b6\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.6.1.aar\805316a6340a4fa6b5393d6da0df763e\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.6.1.aar\805316a6340a4fa6b5393d6da0df763e\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.6.1.aar\6cfd432e73f99667a1e8c16f6fa2e7f5\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.6.1.aar\6cfd432e73f99667a1e8c16f6fa2e7f5\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.6.1.aar\490cd629d1e0293f909879ec0c1b0bfe\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-wallet-9.6.1.aar\490cd629d1e0293f909879ec0c1b0bfe\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.6.1.aar\61ed762424c5e08d1cb36abc684783b4\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.6.1.aar\61ed762424c5e08d1cb36abc684783b4\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.6.1.aar\780ab375b6ec563cc256db3d5e4d96ca\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.6.1.aar\780ab375b6ec563cc256db3d5e4d96ca\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-9.6.1.aar\740f8c26e8ebb0a7281b8a5bcafdb9f6\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-9.6.1.aar\740f8c26e8ebb0a7281b8a5bcafdb9f6\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-location-9.6.1.aar\83479cd043dff0671ec2136cb56caabf\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-location-9.6.1.aar\83479cd043dff0671ec2136cb56caabf\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-places:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-places-9.6.1.aar\76a1eb5ba37a90b654646fa4bdd84744\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-places-9.6.1.aar\76a1eb5ba37a90b654646fa4bdd84744\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.6.1.aar\2407944b095f3912aa43a3594c888bde\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.6.1.aar\2407944b095f3912aa43a3594c888bde\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.6.1.aar\c9a199078769e261fcfbfc9b120ea4d7\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.6.1.aar\c9a199078769e261fcfbfc9b120ea4d7\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.6.1.aar\f76a5c99aa428a6d172d607289e7fde9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.6.1.aar\f76a5c99aa428a6d172d607289e7fde9\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.6.1.aar\4c0219e13ce4224fec8cf587aca370bf\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.6.1.aar\4c0219e13ce4224fec8cf587aca370bf\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.6.1.aar\e41da494f92dcf8ea70b64ba3aaf5775\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.6.1.aar\e41da494f92dcf8ea70b64ba3aaf5775\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.6.1.aar\e95f21f78caaca32204676c85b15a65b\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.6.1.aar\e95f21f78caaca32204676c85b15a65b\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.6.1.aar\70ebbc6184d58e99f95690b4bfa9aa4c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.6.1.aar\70ebbc6184d58e99f95690b4bfa9aa4c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-base-9.6.1.aar\5fb085899543bab3ef9dd25f3367b36c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-base-9.6.1.aar\5fb085899543bab3ef9dd25f3367b36c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-database-9.6.1.aar\8c9dd9ca2a7c46a363899a8f4fc2977a\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-database-9.6.1.aar\8c9dd9ca2a7c46a363899a8f4fc2977a\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.6.1.aar\fdbd02068be6e913619859f6c622c508\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.6.1.aar\fdbd02068be6e913619859f6c622c508\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-core-9.6.1.aar\676d9c71c4a3e1a30f50d1f0461d54c5\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-core-9.6.1.aar\676d9c71c4a3e1a30f50d1f0461d54c5\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.6.1.aar\8e466d96ee1298e3e24287462f3f416a\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.6.1.aar\8e466d96ee1298e3e24287462f3f416a\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\c9c60cc396e7badbb44b1e905a98add4\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\c9c60cc396e7badbb44b1e905a98add4\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.6.1.aar\b2931ec1e37973436186a9e2e6526954\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.6.1.aar\b2931ec1e37973436186a9e2e6526954\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.6.1.aar\299a1a3f3b8d5676134a55b98c023a12\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.6.1.aar\299a1a3f3b8d5676134a55b98c023a12\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.6.1.aar\4326e35274c41d7d4ef763af24d2bb80\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.6.1.aar\4326e35274c41d7d4ef763af24d2bb80\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\95c62cc881139de284404bb09e17def7\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\95c62cc881139de284404bb09e17def7\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\260827e203ae82df1a5d48326f4f7c2a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\260827e203ae82df1a5d48326f4f7c2a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\b4bb60baae6128479d10b0ae6fdb38a9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\b4bb60baae6128479d10b0ae6fdb38a9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\e7456c3bf7d2406d1cf69c9e7529acb5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\e7456c3bf7d2406d1cf69c9e7529acb5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\02e216d6ab8d85c8fa1dbe3b694142c2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\02e216d6ab8d85c8fa1dbe3b694142c2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.0.aar\17b4cfd0c86c4a3d84995a6d140ea5fb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.0.aar\17b4cfd0c86c4a3d84995a6d140ea5fb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\c344c55c248067f1520671a36b4b3e18\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\c344c55c248067f1520671a36b4b3e18\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:customtabs:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.0.aar\4dfa7c049aa57d1eb80d9f6e877b6933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.0.aar\4dfa7c049aa57d1eb80d9f6e877b6933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\c6d6cbc4d6c37296f55e9a5efbc69564\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\c6d6cbc4d6c37296f55e9a5efbc69564\AndroidManifest.xml:21:5-23:58
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\bcbbb9609e292e07449ff8ebc7753d65\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\bcbbb9609e292e07449ff8ebc7753d65\AndroidManifest.xml:5:5-7:41
+MERGED from [com.appsflyer:af-android-sdk:4.8.10] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\af-android-sdk-4.8.10.aar\8d2c8ba56ebe7391fbba0a3aca2c4a1d\AndroidManifest.xml:5:5-43
+MERGED from [com.appsflyer:af-android-sdk:4.8.10] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\af-android-sdk-4.8.10.aar\8d2c8ba56ebe7391fbba0a3aca2c4a1d\AndroidManifest.xml:5:5-43
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\installreferrer-1.0.aar\c2dc4c387ebe19e95b6e21a3bcd27c90\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\installreferrer-1.0.aar\c2dc4c387ebe19e95b6e21a3bcd27c90\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\24a8794c5f3a4658079bcd4ba22b9ba1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\24a8794c5f3a4658079bcd4ba22b9ba1\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:6:5-56
+INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:6:5-56
+	tools:overrideLibrary
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:6:15-53
+	android:targetSdkVersion
+		INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:6:5-56
+		INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:6:5-56
+		INJECTED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:11:22-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-67
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.6.1.aar\dd6a8e4aa483de46ea6fde873e3564fb\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.6.1.aar\dd6a8e4aa483de46ea6fde873e3564fb\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.6.1.aar\66f3fcc56f02d7b2353ab1b01c48bbda\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.6.1.aar\66f3fcc56f02d7b2353ab1b01c48bbda\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.6.1.aar\6cfd432e73f99667a1e8c16f6fa2e7f5\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.6.1.aar\6cfd432e73f99667a1e8c16f6fa2e7f5\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.6.1.aar\780ab375b6ec563cc256db3d5e4d96ca\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.6.1.aar\780ab375b6ec563cc256db3d5e4d96ca\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.6.1.aar\2407944b095f3912aa43a3594c888bde\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.6.1.aar\2407944b095f3912aa43a3594c888bde\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:5-79
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.6.1.aar\dd6a8e4aa483de46ea6fde873e3564fb\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.6.1.aar\dd6a8e4aa483de46ea6fde873e3564fb\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.6.1.aar\66f3fcc56f02d7b2353ab1b01c48bbda\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.6.1.aar\66f3fcc56f02d7b2353ab1b01c48bbda\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.6.1.aar\2407944b095f3912aa43a3594c888bde\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.6.1.aar\2407944b095f3912aa43a3594c888bde\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.6.1.aar\c9a199078769e261fcfbfc9b120ea4d7\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.6.1.aar\c9a199078769e261fcfbfc9b120ea4d7\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:14:22-71
+uses-permission#in.wptrafficanalyzer.locationautogooglemapv2.permission.MAPS_RECEIVE
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:16:5-108
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:16:22-105
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:17:5-80
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-80
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:22:5-24:48
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-81
+	tools:remove
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:24:9-45
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:23:9-65
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:25:5-98
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:25:22-95
+uses-permission#android.permission.CAMERA
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:26:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:28:5-60
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:28:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:29:5-70
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:29:19-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:31:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:32:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:33:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:34:5-76
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:34:22-73
+uses-permission#android.permission.ACCESS_COARSE_UPDATES
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:35:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:36:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:37:5-69
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:37:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:38:5-75
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-75
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:38:22-72
+uses-permission#android.permission.READ_SMS
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:39:5-67
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:39:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:40:5-70
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:40:22-67
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:41:5-68
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:41:22-65
+application
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:44:5-485:19
+MERGED from [:volley] D:\Trupti_workspace\SRL_SVN_survey\volley\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-20
+MERGED from [:volley] D:\Trupti_workspace\SRL_SVN_survey\volley\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-20
+MERGED from [:sublimenavigationview] D:\Trupti_workspace\SRL_SVN_survey\sublimenavigationview\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-14:19
+MERGED from [:sublimenavigationview] D:\Trupti_workspace\SRL_SVN_survey\sublimenavigationview\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-14:19
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-55:19
+MERGED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-55:19
+MERGED from [com.android.support:design:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\815095d2a1398a07583eabd7457b7798\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\815095d2a1398a07583eabd7457b7798\AndroidManifest.xml:29:5-20
+MERGED from [com.brucetoo.pickview:library:1.2.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\library-1.2.2.aar\a463311258873990418bbfa79b504fb3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.brucetoo.pickview:library:1.2.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\library-1.2.2.aar\a463311258873990418bbfa79b504fb3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.synnapps:carouselview:0.1.3] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\carouselview-0.1.3.aar\780e17f7721060bd268d9eb3621ddce0\AndroidManifest.xml:11:5-14:19
+MERGED from [com.synnapps:carouselview:0.1.3] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\carouselview-0.1.3.aar\780e17f7721060bd268d9eb3621ddce0\AndroidManifest.xml:11:5-14:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.32.0.aar\07084806ea1cb84df94d93cbacf75ef2\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.32.0.aar\07084806ea1cb84df94d93cbacf75ef2\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\d7a14e087edbf4ed8e615ae559d36645\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-login-4.32.0.aar\d7a14e087edbf4ed8e615ae559d36645\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-share-4.32.0.aar\6577b74d604119259d6667033456808e\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-share-4.32.0.aar\6577b74d604119259d6667033456808e\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\764811d0526c937160da33042f802987\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\764811d0526c937160da33042f802987\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.android.gms:play-services:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-9.6.1.aar\99bf98069e6003642a1f5ef2ee0355d2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-9.6.1.aar\99bf98069e6003642a1f5ef2ee0355d2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.6.1.aar\39e875a51b8e70dcffcc66c33a54f87d\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.6.1.aar\39e875a51b8e70dcffcc66c33a54f87d\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.6.1.aar\b32b0341c99c67bc1110aba66a88e376\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-9.6.1.aar\b32b0341c99c67bc1110aba66a88e376\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.3.0.aar\e88616d8a079e5ff1029f36000c150d5\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:mediarouter-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.3.0.aar\e88616d8a079e5ff1029f36000c150d5\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\3d1f96b899fefa468e8404ccfe97f817\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\3d1f96b899fefa468e8404ccfe97f817\AndroidManifest.xml:29:5-20
+MERGED from [com.github.markushi:android-ui:1.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\android-ui-1.2.aar\f49d3a5d970de6893fe4ed912a60056c\AndroidManifest.xml:9:5-10:19
+MERGED from [com.github.markushi:android-ui:1.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\android-ui-1.2.aar\f49d3a5d970de6893fe4ed912a60056c\AndroidManifest.xml:9:5-10:19
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.0.aar\b39f91413136a7ce571e2484712b3ab0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.0.aar\b39f91413136a7ce571e2484712b3ab0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.6.1.aar\f7bc1414f4489bc3f30f2c614d714614\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.6.1.aar\f7bc1414f4489bc3f30f2c614d714614\AndroidManifest.xml:18:5-19
+MERGED from [com.github.daimajia:AndroidSwipeLayout:f66ac6942b] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\AndroidSwipeLayout-f66ac6942b.aar\d6c6062c7449e97f4d0e23e189c673d0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.daimajia:AndroidSwipeLayout:f66ac6942b] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\AndroidSwipeLayout-f66ac6942b.aar\d6c6062c7449e97f4d0e23e189c673d0\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\3500ef67f35850d83e4eb3df38842017\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\3500ef67f35850d83e4eb3df38842017\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\7c50759db1e340500f869d9ee074cd00\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\7c50759db1e340500f869d9ee074cd00\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\31a47aa657dd7338e662fc1dd9c03728\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\31a47aa657dd7338e662fc1dd9c03728\AndroidManifest.xml:26:5-20
+MERGED from [com.facebook.android:facebook-places:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-places-4.32.0.aar\b4bbc017e16e8a5e42ba8fc22a172c7e\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-places-4.32.0.aar\b4bbc017e16e8a5e42ba8fc22a172c7e\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.32.0.aar\781afb0f68b39ed264650a7ee7d2c986\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.32.0.aar\781afb0f68b39ed264650a7ee7d2c986\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.32.0.aar\4e74e5717d5d4c5f3dee5b12c4a30420\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.32.0.aar\4e74e5717d5d4c5f3dee5b12c4a30420\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\02c7c63fca81a77f92e54ef4d5aa1276\AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\02c7c63fca81a77f92e54ef4d5aa1276\AndroidManifest.xml:28:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\cd88bebc8faf525027038de9a753b32b\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\cd88bebc8faf525027038de9a753b32b\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.6.1.aar\dd6a8e4aa483de46ea6fde873e3564fb\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.6.1.aar\dd6a8e4aa483de46ea6fde873e3564fb\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.6.1.aar\66f3fcc56f02d7b2353ab1b01c48bbda\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.6.1.aar\66f3fcc56f02d7b2353ab1b01c48bbda\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.6.1.aar\72edad36d59e6f255c1b885c82f8dc4e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.6.1.aar\72edad36d59e6f255c1b885c82f8dc4e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-config-9.6.1.aar\64410cd550ad75332e25179fb561f618\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-config-9.6.1.aar\64410cd550ad75332e25179fb561f618\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.6.1.aar\2dce142c286c1f3f9163b404ecceebb9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-awareness-9.6.1.aar\2dce142c286c1f3f9163b404ecceebb9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-games-9.6.1.aar\cab1398385d0378340e3444ce104ec25\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-games-9.6.1.aar\cab1398385d0378340e3444ce104ec25\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.6.1.aar\3330221bcbcba962de28cd6bb810e7f6\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-drive-9.6.1.aar\3330221bcbcba962de28cd6bb810e7f6\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.6.1.aar\049b875cdb3c9a841bac112413448174\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-9.6.1.aar\049b875cdb3c9a841bac112413448174\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.6.1.aar\ffa6f365add5879c8573539439739db0\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-auth-common-9.6.1.aar\ffa6f365add5879c8573539439739db0\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-fitness:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.6.1.aar\805316a6340a4fa6b5393d6da0df763e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-fitness-9.6.1.aar\805316a6340a4fa6b5393d6da0df763e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.6.1.aar\6cfd432e73f99667a1e8c16f6fa2e7f5\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.6.1.aar\6cfd432e73f99667a1e8c16f6fa2e7f5\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.6.1.aar\61ed762424c5e08d1cb36abc684783b4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-identity-9.6.1.aar\61ed762424c5e08d1cb36abc684783b4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.6.1.aar\780ab375b6ec563cc256db3d5e4d96ca\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.6.1.aar\780ab375b6ec563cc256db3d5e4d96ca\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-location-9.6.1.aar\83479cd043dff0671ec2136cb56caabf\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-location-9.6.1.aar\83479cd043dff0671ec2136cb56caabf\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-places-9.6.1.aar\76a1eb5ba37a90b654646fa4bdd84744\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-places-9.6.1.aar\76a1eb5ba37a90b654646fa4bdd84744\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.6.1.aar\2407944b095f3912aa43a3594c888bde\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.6.1.aar\2407944b095f3912aa43a3594c888bde\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.6.1.aar\c9a199078769e261fcfbfc9b120ea4d7\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-nearby-9.6.1.aar\c9a199078769e261fcfbfc9b120ea4d7\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.6.1.aar\f76a5c99aa428a6d172d607289e7fde9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-panorama-9.6.1.aar\f76a5c99aa428a6d172d607289e7fde9\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.6.1.aar\4c0219e13ce4224fec8cf587aca370bf\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.6.1.aar\4c0219e13ce4224fec8cf587aca370bf\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.6.1.aar\e41da494f92dcf8ea70b64ba3aaf5775\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-9.6.1.aar\e41da494f92dcf8ea70b64ba3aaf5775\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.6.1.aar\e95f21f78caaca32204676c85b15a65b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.6.1.aar\e95f21f78caaca32204676c85b15a65b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.6.1.aar\70ebbc6184d58e99f95690b4bfa9aa4c\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.6.1.aar\70ebbc6184d58e99f95690b4bfa9aa4c\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-base-9.6.1.aar\5fb085899543bab3ef9dd25f3367b36c\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-base-9.6.1.aar\5fb085899543bab3ef9dd25f3367b36c\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-core-9.6.1.aar\676d9c71c4a3e1a30f50d1f0461d54c5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-core-9.6.1.aar\676d9c71c4a3e1a30f50d1f0461d54c5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\c9c60cc396e7badbb44b1e905a98add4\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\c9c60cc396e7badbb44b1e905a98add4\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.6.1.aar\b2931ec1e37973436186a9e2e6526954\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.6.1.aar\b2931ec1e37973436186a9e2e6526954\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.6.1.aar\4326e35274c41d7d4ef763af24d2bb80\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.6.1.aar\4326e35274c41d7d4ef763af24d2bb80\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\95c62cc881139de284404bb09e17def7\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\95c62cc881139de284404bb09e17def7\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\260827e203ae82df1a5d48326f4f7c2a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\260827e203ae82df1a5d48326f4f7c2a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\b4bb60baae6128479d10b0ae6fdb38a9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\b4bb60baae6128479d10b0ae6fdb38a9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\e7456c3bf7d2406d1cf69c9e7529acb5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\e7456c3bf7d2406d1cf69c9e7529acb5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\02e216d6ab8d85c8fa1dbe3b694142c2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\02e216d6ab8d85c8fa1dbe3b694142c2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.0.aar\17b4cfd0c86c4a3d84995a6d140ea5fb\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.0.aar\17b4cfd0c86c4a3d84995a6d140ea5fb\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\c344c55c248067f1520671a36b4b3e18\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\c344c55c248067f1520671a36b4b3e18\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:customtabs:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.0.aar\4dfa7c049aa57d1eb80d9f6e877b6933\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.0.aar\4dfa7c049aa57d1eb80d9f6e877b6933\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\c6d6cbc4d6c37296f55e9a5efbc69564\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\c6d6cbc4d6c37296f55e9a5efbc69564\AndroidManifest.xml:29:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\bcbbb9609e292e07449ff8ebc7753d65\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\bcbbb9609e292e07449ff8ebc7753d65\AndroidManifest.xml:9:5-20
+MERGED from [com.appsflyer:af-android-sdk:4.8.10] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\af-android-sdk-4.8.10.aar\8d2c8ba56ebe7391fbba0a3aca2c4a1d\AndroidManifest.xml:7:5-8:19
+MERGED from [com.appsflyer:af-android-sdk:4.8.10] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\af-android-sdk-4.8.10.aar\8d2c8ba56ebe7391fbba0a3aca2c4a1d\AndroidManifest.xml:7:5-8:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\installreferrer-1.0.aar\c2dc4c387ebe19e95b6e21a3bcd27c90\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\installreferrer-1.0.aar\c2dc4c387ebe19e95b6e21a3bcd27c90\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\24a8794c5f3a4658079bcd4ba22b9ba1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\24a8794c5f3a4658079bcd4ba22b9ba1\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:49:9-35
+	android:label
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:48:9-41
+	android:icon
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:47:9-45
+	android:allowBackup
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:46:9-35
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:50:9-40
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:45:9-39
+meta-data#com.google.android.gms.version
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:53:9-55:69
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\95c62cc881139de284404bb09e17def7\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.6.1.aar\95c62cc881139de284404bb09e17def7\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:55:13-66
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:54:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:58:9-60:55
+	android:value
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:60:13-52
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:59:13-58
+activity#com.srllimited.srl.SplashActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:67:9-78:20
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:69:13-45
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:72:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:71:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:68:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:73:13-77:29
+action#android.intent.action.MAIN
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:74:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:76:27-74
+activity#com.srllimited.srl.ConfirmPolicy
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:79:9-83:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:81:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:83:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:82:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:80:13-42
+service#com.srllimited.srl.service.MyFirebaseMessagingService
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:86:9-90:19
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:86:18-68
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:87:13-89:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:88:17-78
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:88:25-75
+service#com.srllimited.srl.service.MyFirebaseInstanceIDService
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:91:9-95:19
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:91:18-69
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:92:13-94:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:93:17-80
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:93:25-77
+receiver#com.srllimited.srl.service.BootCompletedReceiver
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:98:9-104:20
+	android:label
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:100:13-50
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:99:13-58
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:101:13-103:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:102:17-79
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:102:25-76
+activity#com.srllimited.srl.permission.DangerousPermissionActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:106:9-108:75
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:108:13-72
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:107:13-67
+activity#com.srllimited.srl.Dashboard
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:109:9-113:67
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:111:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:113:13-64
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:112:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:110:13-38
+activity#com.srllimited.srl.LoginScreenActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:114:9-118:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:116:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:118:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:117:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:115:13-48
+activity#com.srllimited.srl.RegistrationScreen
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:119:9-123:70
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:121:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:123:13-67
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:122:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:120:13-47
+activity#com.srllimited.srl.AboutUsActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:124:9-128:67
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:126:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:128:13-64
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:127:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:125:13-44
+activity#com.srllimited.srl.ResetPinActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:129:9-133:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:131:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:133:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:132:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:130:13-45
+activity#com.srllimited.srl.SplashFourdigitPinActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:134:9-138:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:136:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:138:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:137:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:135:13-55
+activity#com.srllimited.srl.ConfirmRegistation
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:139:9-143:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:141:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:143:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:142:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:140:13-47
+activity#com.srllimited.srl.OTPRegistration
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:144:9-148:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:146:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:148:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:147:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:145:13-44
+activity#com.srllimited.srl.SearchLocationActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:149:9-153:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:151:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:153:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:152:13-72
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:150:13-51
+activity#com.srllimited.srl.searchsurveylocationActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:154:9-158:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:156:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:158:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:157:13-72
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:155:13-57
+activity#com.srllimited.srl.BookATestActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:159:9-163:67
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:161:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:163:13-64
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:162:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:160:13-46
+activity#com.srllimited.srl.BookATestFilterActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:164:9-168:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:166:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:168:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:167:13-72
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:165:13-52
+activity#com.srllimited.srl.MyCartActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:169:9-173:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:171:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:173:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:172:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:170:13-43
+activity#com.srllimited.srl.CollectionActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:174:9-178:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:176:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:178:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:177:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:175:13-47
+activity#com.srllimited.srl.MyReports
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:179:9-183:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:181:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:183:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:182:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:180:13-38
+activity#com.srllimited.srl.HealthTracker
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:184:9-188:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:186:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:188:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:187:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:185:13-42
+activity#com.srllimited.srl.VisitLabsList
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:189:9-193:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:191:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:193:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:192:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:190:13-42
+activity#com.srllimited.srl.AddPatientActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:194:9-198:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:196:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:198:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:197:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:195:13-47
+activity#com.srllimited.srl.ReportLoginAccessNo
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:199:9-203:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:201:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:203:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:202:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:200:13-48
+activity#com.srllimited.srl.MyReportEntryDetails
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:204:9-208:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:206:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:208:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:207:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:205:13-49
+activity#com.srllimited.srl.MyReportCompleteDetails
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:209:9-213:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:211:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:213:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:212:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:210:13-52
+activity#com.srllimited.srl.MyOrderPatientCollectAddress
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:214:9-218:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:216:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:218:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:217:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:215:13-57
+activity#com.srllimited.srl.OrderConfirmationActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:219:9-223:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:221:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:223:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:222:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:220:13-54
+activity#com.srllimited.srl.OrderTrack
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:224:9-228:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:226:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:228:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:227:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:225:13-39
+activity#com.srllimited.srl.PaymentOptionActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:229:9-233:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:231:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:233:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:232:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:230:13-50
+activity#com.srllimited.srl.TrackOrderActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:234:9-238:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:236:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:238:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:237:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:235:13-47
+activity#com.srllimited.srl.OfferDetails
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:246:9-250:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:248:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:250:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:249:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:247:13-41
+activity#com.srllimited.srl.TrackingDetails
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:251:9-255:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:253:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:255:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:254:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:252:13-44
+activity#com.srllimited.srl.CompleteMap
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:258:9-262:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:260:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:262:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:261:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:259:13-40
+activity#com.srllimited.srl.YourLocationActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:263:9-267:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:265:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:267:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:266:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:264:13-49
+activity#com.srllimited.srl.LabLocatorsActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:268:9-272:67
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:270:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:272:13-64
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:271:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:269:13-48
+activity#com.srllimited.srl.NotificationsActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:273:9-281:20
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:275:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:277:13-64
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:276:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:274:13-50
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:278:13-280:64
+	android:value
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:280:17-61
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:279:17-63
+activity#com.srllimited.srl.ChangePwdActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:282:9-286:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:284:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:286:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:285:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:283:13-46
+activity#com.srllimited.srl.OrdersActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:287:9-291:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:289:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:291:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:290:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:288:13-43
+activity#com.srllimited.srl.MyFamilyActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:292:9-296:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:294:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:296:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:295:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:293:13-45
+activity#com.srllimited.srl.SettingsActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:297:9-301:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:299:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:301:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:300:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:298:13-45
+activity#com.srllimited.srl.AddMemberActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:302:9-306:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:304:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:306:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:305:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:303:13-46
+activity#com.srllimited.srl.PromoCodes
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:308:9-312:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:310:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:312:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:311:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:309:13-39
+activity#com.srllimited.srl.SupportActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:313:9-317:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:315:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:317:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:316:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:314:13-44
+activity#com.srllimited.srl.FourDigitActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:318:9-322:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:320:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:322:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:321:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:319:13-46
+activity#com.srllimited.srl.MyReportsExpandableListView
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:323:9-327:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:325:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:327:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:326:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:324:13-56
+activity#com.srllimited.srl.MyProfileActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:328:9-332:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:330:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:332:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:331:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:329:13-46
+activity#com.srllimited.srl.PaytmActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:333:9-337:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:335:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:337:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:336:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:334:13-42
+activity#com.srllimited.srl.MobikwikActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:338:9-342:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:340:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:342:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:341:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:339:13-45
+activity#com.srllimited.srl.RateUsActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:343:9-347:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:345:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:347:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:346:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:344:13-43
+activity#com.srllimited.srl.PlayStoreActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:348:9-352:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:350:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:352:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:351:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:349:13-46
+activity#com.srllimited.srl.ShowWebView
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:353:9-357:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:355:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:357:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:356:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:354:13-40
+activity#com.srllimited.srl.BmiCalculation
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:358:9-362:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:360:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:362:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:361:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:359:13-43
+activity#com.srllimited.srl.BmiListView
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:363:9-367:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:365:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:367:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:366:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:364:13-40
+activity#com.srllimited.srl.BmiRegisterActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:368:9-372:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:370:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:372:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:371:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:369:13-48
+activity#com.srllimited.srl.MoreActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:373:9-377:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:375:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:377:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:376:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:374:13-41
+activity#com.paytm.pgsdk.PaytmPGActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:378:9-381:52
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:381:13-49
+	android:configChanges
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:380:13-72
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:379:13-59
+activity#com.srllimited.srl.MyTrendActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:382:9-386:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:384:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:386:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:385:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:383:13-44
+service#com.srllimited.srl.service.MonitorService
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:388:9-59
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:388:18-56
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:395:9-397:59
+	android:value
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:397:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:396:13-58
+activity#com.srllimited.srl.PaymentSuccessActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:399:9-413:20
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:402:13-49
+	android:label
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:401:13-67
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:400:13-51
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:403:13-412:29
+data
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:404:17-406:59
+	android:host
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:405:21-42
+	android:scheme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:406:21-56
+action#android.intent.action.VIEW
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:408:17-69
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:408:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:410:17-76
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:410:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:411:17-78
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:411:27-75
+activity#com.srllimited.srl.HealthChartActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:414:9-418:57
+	android:screenOrientation
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:416:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:418:13-54
+	android:theme
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:417:13-56
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:415:13-48
+receiver#com.appsflyer.SingleInstallBroadcastReceiver
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:438:9-444:20
+	android:exported
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:440:13-36
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:439:13-72
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:441:13-443:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:442:17-79
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:442:25-76
+activity#com.facebook.FacebookActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:446:9-449:48
+MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\764811d0526c937160da33042f802987\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\764811d0526c937160da33042f802987\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:449:13-45
+	android:configChanges
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:448:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\764811d0526c937160da33042f802987\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:447:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:450:9-461:20
+	android:exported
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:452:13-36
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:451:13-58
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:463:9-465:37
+	android:value
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:465:13-34
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:464:13-68
+activity#com.srllimited.srl.TrackCollectExportActivity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:482:9-64
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:482:19-61
+activity#com.srllimited.srl.TakeSurvey_Activity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:483:9-57
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:483:19-54
+activity#com.srllimited.srl.HealthSurvey_activity
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:484:9-59
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:484:19-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:433:13-435:58
+	android:resource
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:435:17-55
+	android:name
+		ADDED from D:\Trupti_workspace\SRL_SVN_survey\app\src\main\AndroidManifest.xml:434:17-67
+activity#com.ebs.android.sdk.PaymentDetailActivity
+ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:9-23:20
+	android:screenOrientation
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:13-69
+activity#com.ebs.android.sdk.PaymentActivity
+ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:9-30:20
+	android:screenOrientation
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:13-59
+	android:windowSoftInputMode
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:13-52
+	android:theme
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:13-63
+activity#com.ebs.android.sdk.WebViewActivity
+ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:31:9-38:20
+	android:screenOrientation
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:34:13-59
+	android:windowSoftInputMode
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:13-86
+	android:configChanges
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:13-63
+	android:theme
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:13-63
+activity#com.ebs.android.sdk.EBSHomeConfigurableActivity
+ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:9-44:20
+	android:screenOrientation
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:41:13-77
+	android:theme
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:40:13-75
+activity#com.ebs.android.sdk.PaymentFailureActivity
+ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:9-49:20
+	android:label
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:47:13-67
+	android:theme
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:46:13-70
+activity#com.ebs.android.sdk.IdleTimeOut
+ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:50:9-54:20
+	android:label
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:52:13-65
+	android:theme
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from [:EBS] D:\Trupti_workspace\SRL_SVN_survey\EBS\build\intermediates\manifests\full\debug\AndroidManifest.xml:51:13-59
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\815095d2a1398a07583eabd7457b7798\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:mediarouter-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.3.0.aar\e88616d8a079e5ff1029f36000c150d5\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:mediarouter-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.3.0.aar\e88616d8a079e5ff1029f36000c150d5\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\3d1f96b899fefa468e8404ccfe97f817\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.0.aar\3d1f96b899fefa468e8404ccfe97f817\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.0.aar\b39f91413136a7ce571e2484712b3ab0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.0.aar\b39f91413136a7ce571e2484712b3ab0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.0.aar\f3396523d89eaaaecc2f095b4ea00a26\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.0.aar\f3396523d89eaaaecc2f095b4ea00a26\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\3500ef67f35850d83e4eb3df38842017\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.0.aar\3500ef67f35850d83e4eb3df38842017\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\7c50759db1e340500f869d9ee074cd00\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.0.aar\7c50759db1e340500f869d9ee074cd00\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\31a47aa657dd7338e662fc1dd9c03728\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\transition-25.3.0.aar\31a47aa657dd7338e662fc1dd9c03728\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\260827e203ae82df1a5d48326f4f7c2a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.0.aar\260827e203ae82df1a5d48326f4f7c2a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\b4bb60baae6128479d10b0ae6fdb38a9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.0.aar\b4bb60baae6128479d10b0ae6fdb38a9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\e7456c3bf7d2406d1cf69c9e7529acb5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.0.aar\e7456c3bf7d2406d1cf69c9e7529acb5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\02e216d6ab8d85c8fa1dbe3b694142c2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.0.aar\02e216d6ab8d85c8fa1dbe3b694142c2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.0.aar\17b4cfd0c86c4a3d84995a6d140ea5fb\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:palette-v7:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\palette-v7-25.3.0.aar\17b4cfd0c86c4a3d84995a6d140ea5fb\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\c344c55c248067f1520671a36b4b3e18\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.0.aar\c344c55c248067f1520671a36b4b3e18\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:customtabs:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.0.aar\4dfa7c049aa57d1eb80d9f6e877b6933\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.0.aar\4dfa7c049aa57d1eb80d9f6e877b6933\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\c6d6cbc4d6c37296f55e9a5efbc69564\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.0.aar\c6d6cbc4d6c37296f55e9a5efbc69564\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\815095d2a1398a07583eabd7457b7798\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\design-25.3.0.aar\815095d2a1398a07583eabd7457b7798\AndroidManifest.xml:26:9-47
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\764811d0526c937160da33042f802987\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-common-4.32.0.aar\764811d0526c937160da33042f802987\AndroidManifest.xml:33:19-68
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.6.1.aar\39e875a51b8e70dcffcc66c33a54f87d\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.6.1.aar\39e875a51b8e70dcffcc66c33a54f87d\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.6.1.aar\39e875a51b8e70dcffcc66c33a54f87d\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.6.1.aar\39e875a51b8e70dcffcc66c33a54f87d\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.6.1.aar\39e875a51b8e70dcffcc66c33a54f87d\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.6.1.aar\39e875a51b8e70dcffcc66c33a54f87d\AndroidManifest.xml:7:18-90
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\02c7c63fca81a77f92e54ef4d5aa1276\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\02c7c63fca81a77f92e54ef4d5aa1276\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\02c7c63fca81a77f92e54ef4d5aa1276\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.32.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\facebook-core-4.32.0.aar\02c7c63fca81a77f92e54ef4d5aa1276\AndroidManifest.xml:40:13-70
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\cd88bebc8faf525027038de9a753b32b\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\cd88bebc8faf525027038de9a753b32b\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.6.1.aar\cd88bebc8faf525027038de9a753b32b\AndroidManifest.xml:23:18-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.6.1.aar\3d2ecee3184d7786bd79966033410bd3\AndroidManifest.xml:24:18-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.6.1.aar\dd6a8e4aa483de46ea6fde873e3564fb\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.6.1.aar\66f3fcc56f02d7b2353ab1b01c48bbda\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-9.6.1.aar\66f3fcc56f02d7b2353ab1b01c48bbda\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-analytics-9.6.1.aar\dd6a8e4aa483de46ea6fde873e3564fb\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-9.6.1.aar\670b1b8764ef8ea0b4da6522aa4a27fd\AndroidManifest.xml:22:25-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.6.1.aar\6cfd432e73f99667a1e8c16f6fa2e7f5\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.6.1.aar\780ab375b6ec563cc256db3d5e4d96ca\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-iid-9.6.1.aar\780ab375b6ec563cc256db3d5e4d96ca\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-gcm-9.6.1.aar\6cfd432e73f99667a1e8c16f6fa2e7f5\AndroidManifest.xml:20:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.6.1.aar\2407944b095f3912aa43a3594c888bde\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.6.1.aar\2407944b095f3912aa43a3594c888bde\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.6.1.aar\2407944b095f3912aa43a3594c888bde\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-base-9.6.1.aar\5fb085899543bab3ef9dd25f3367b36c\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-base-9.6.1.aar\5fb085899543bab3ef9dd25f3367b36c\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-base-9.6.1.aar\5fb085899543bab3ef9dd25f3367b36c\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-base-9.6.1.aar\5fb085899543bab3ef9dd25f3367b36c\AndroidManifest.xml:19:19-85
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:24:9-117
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:24:80-115
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:24:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:26:9-115
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:26:78-113
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-crash-9.6.1.aar\86a58caea9331f33f57ae579d3865042\AndroidManifest.xml:26:18-77
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-9.6.1.aar\2a9febef6595d969cd25ef933bdf9cb0\AndroidManifest.xml:25:19-93
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:27:17-104
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.6.1.aar\0d5866d2aa07a5fdeffcd00938d2a498\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.6.1.aar\acee2bb6a68d446d8957687c299dba87\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:24:17-71
+permission#com.srllimited.srl.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:26:22-76
+uses-permission#com.srllimited.srl.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:31:13-35:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.srllimited.srl
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:34:27-58
+category#com.srllimited.srl
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.6.1.aar\3baba89ed967309901892b927a8109ce\AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\c9c60cc396e7badbb44b1e905a98add4\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\c9c60cc396e7badbb44b1e905a98add4\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\c9c60cc396e7badbb44b1e905a98add4\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\c9c60cc396e7badbb44b1e905a98add4\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\firebase-common-9.6.1.aar\c9c60cc396e7badbb44b1e905a98add4\AndroidManifest.xml:6:79-124
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.6.1.aar\6263d719cf1b15814e4178f48b41605a\AndroidManifest.xml:26:19-91
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\installreferrer-1.0.aar\c2dc4c387ebe19e95b6e21a3bcd27c90\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lakhan.yadav\.gradle\caches\transforms-1\files-1.1\installreferrer-1.0.aar\c2dc4c387ebe19e95b6e21a3bcd27c90\AndroidManifest.xml:9:22-107
